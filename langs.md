@@ -6,6 +6,7 @@ I'm choosing to define "tried" as including langs that I use regularly and have 
 * C
 * C++
 * C#
+* Forth
 * Fortran
 * FreeBASIC
 * GDScript
