@@ -16,3 +16,4 @@ I'm choosing to define "tried" as including langs that I use regularly and have 
 * Pascal
 * Ruby
 * Vala
+* Zig
